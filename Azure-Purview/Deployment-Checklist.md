@@ -1,7 +1,6 @@
 ---
 title: Azure Purview Deployment Checklist
 description: Azure Purview Deployment Checklist
-author: Zeinab Mokhtarian Koorabbasloo
 copied from: https://github.com/zeinab-mk/Purview-Deployment-Checklist
 file: Readme.md
 ---
